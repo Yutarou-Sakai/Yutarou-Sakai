@@ -23,13 +23,19 @@
 
 <!-- reference Materials  -->
 ## Reference Materials
+参考教材ログ
+
+### Ruby & Rails
 - [デイトラ:railsコース](https://www.daily-trial.com/ruby)
+
+### Linux
 - [udemy:もう怖くないLinuxコマンド。手を動かしながらLinuxコマンドラインを5日間で身に付けよう](https://www.udemy.com/course/unscared_linux/)
 
 
 
 <!-- reference Books  -->
 ## Reference Books
+読書ログ
 
 ### Computer science
 - [キタミ式イラストIT塾 基本情報技術者](https://www.amazon.co.jp/dp/4297117819/)
