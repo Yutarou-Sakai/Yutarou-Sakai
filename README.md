@@ -23,7 +23,7 @@
 
 <!-- reference Materials  -->
 ## Reference Materials
-- [デイトラ：railsコース](https://www.daily-trial.com/ruby)
+- [デイトラ:railsコース](https://www.daily-trial.com/ruby)
 - [udemy:もう怖くないLinuxコマンド。手を動かしながらLinuxコマンドラインを5日間で身に付けよう](https://www.udemy.com/course/unscared_linux/)
 
 
