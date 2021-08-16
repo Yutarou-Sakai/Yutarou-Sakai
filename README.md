@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hi 👋
 
-<!--
-**Yutarou-Sakai/Yutarou-Sakai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- badge -->
+<p align="left"> 
+  <a href="https://github.com/Yutarou-Sakai/Yutarou-Sakai/">
+    <img src="https://komarev.com/ghpvc/?username=Yutarou-Sakai" alt="yutkat" />
+  </a>
+  <a href="http://twitter.com/yutkat">
+    <img height="20" src="https://img.shields.io/twitter/follow/yutarou_sakai?label=Twitter&logo=twitter&style=flat" />
+  </a>
+  <a href="https://github.com/Yutarou-Sakai">
+    <img height="20" src="https://img.shields.io/github/followers/Yutarou-Sakai?label=follow&logo=github&style=flat" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- graf -->
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yutarou-Sakai&layout=compact" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api?username=Yutarou-Sakai&count_private=true&show_icons=true" />
+</p>
+
+[![](https://raw.githubusercontent.com/yutkat/yutkat/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+
