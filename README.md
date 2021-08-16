@@ -20,6 +20,6 @@
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api?username=Yutarou-Sakai&count_private=true&show_icons=true" />
 </p>
 
-[![](https://raw.githubusercontent.com/yutkat/yutkat/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 
 
