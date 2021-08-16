@@ -29,7 +29,7 @@
 - [デイトラ:railsコース](https://www.daily-trial.com/ruby)
 
 ### Linux
-- [udemy:もう怖くないLinuxコマンド。手を動かしながらLinuxコマンドラインを5日間で身に付けよう](https://www.udemy.com/course/unscared_linux/)
+- [Udemy:もう怖くないLinuxコマンド。手を動かしながらLinuxコマンドラインを5日間で身に付けよう](https://www.udemy.com/course/unscared_linux/)
 - [YouTube:【仮想環境構築】VirtualBoxでLinux(CentOS)導入→Webサーバ（Apache）を構築してみた](https://www.youtube.com/watch?v=IcGNJVmRPo0&list=LL&index=1)
 
 <br>
