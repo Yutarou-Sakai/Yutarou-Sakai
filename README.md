@@ -1,4 +1,4 @@
-### Hi 👋
+## Hi 👋
 
 <!-- badge -->
 <p align="left"> 
@@ -22,13 +22,15 @@
 
 
 <!-- reference Materials  -->
-### Reference Materials
+## Reference Materials
 - [デイトラ railsコース](https://www.daily-trial.com/ruby)
 - [udemy:もう怖くないLinuxコマンド。手を動かしながらLinuxコマンドラインを5日間で身に付けよう](https://www.udemy.com/course/unscared_linux/)
 
 
 
 <!-- reference Books  -->
-### Reference Books
+## Reference Books
+
+### Computer science
 - [キタミ式イラストIT塾 基本情報技術者](https://www.amazon.co.jp/dp/4297117819/)
 
