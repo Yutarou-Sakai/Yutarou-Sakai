@@ -27,6 +27,7 @@
 
 ### Ruby & Rails
 - [デイトラ:railsコース](https://www.daily-trial.com/ruby)
+- [Udemy:"ちゃんと" Ruby を学ぼう！ ー オブジェクト指向機能ってなんだ？](https://www.udemy.com/course/ruby-ruby/)
 
 ### Linux
 - [Udemy:もう怖くないLinuxコマンド。手を動かしながらLinuxコマンドラインを5日間で身に付けよう](https://www.udemy.com/course/unscared_linux/)
