@@ -42,10 +42,10 @@
 - [YouTube:【仮想環境構築】VirtualBoxでLinux(CentOS)導入→Webサーバ（Apache）を構築してみた](https://www.youtube.com/watch?v=IcGNJVmRPo0&list=LL&index=1)
 
 ### Docker
-- [ゼロからはじめる Dockerによるアプリケーション実行環境構築](https://www.udemy.com/course/docker-k/)
+- [Udemy:ゼロからはじめる Dockerによるアプリケーション実行環境構築](https://www.udemy.com/course/docker-k/)
 
 ### Git
-- [Git： もう怖くないGit！チーム開発で必要なGitを完全マスター](https://www.udemy.com/course/unscared_git/)
+- [Udemy:Git： もう怖くないGit！チーム開発で必要なGitを完全マスター](https://www.udemy.com/course/unscared_git/)
 
 <br>
 
