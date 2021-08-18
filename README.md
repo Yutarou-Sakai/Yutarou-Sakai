@@ -36,7 +36,7 @@
 ### Docker
 - [ゼロからはじめる Dockerによるアプリケーション実行環境構築](https://www.udemy.com/course/docker-k/)
 
-<br><i class="devicon-docker-plain"></i>
+<br>
 
 <!-- reference Books  -->
 ## Reference Books
