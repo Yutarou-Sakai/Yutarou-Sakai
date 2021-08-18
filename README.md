@@ -44,6 +44,9 @@
 ### Docker
 - [ゼロからはじめる Dockerによるアプリケーション実行環境構築](https://www.udemy.com/course/docker-k/)
 
+### Git
+- [Git： もう怖くないGit！チーム開発で必要なGitを完全マスター](https://www.udemy.com/course/unscared_git/)
+
 <br>
 
 <!-- reference Books  -->
