@@ -35,12 +35,12 @@
 
 ## スキル
 ### 言語
-- Ruby(主に学習中)
+- Ruby
 - HTML/CSS
 - JS/jQuery
 
 ### フレームワーク
-- Ruby on Rails(学習中)
+- Ruby on Rails
 
 ### その他
 - 未熟ながらもできるだけ早く実務で活躍できるようにと、実務を想定してAWS・Dockerを用いたRuby on RailsでのWebアプリ開発を学習中です。
