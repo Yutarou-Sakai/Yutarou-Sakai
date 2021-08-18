@@ -23,7 +23,7 @@
 
 <!-- My Develop log  -->
 ## Programming note
-✔[Yutarou-Sakai Notion](https://www.notion.so/MyDevelopLog-52a306633ab341bca7f2c9eea2c9ea45)
+✔[Yutarou-Sakai Notion](https://lumpy-sailor-fc3.notion.site/MyDevelopLog-52a306633ab341bca7f2c9eea2c9ea45)
 
 
 <!-- reference Materials  -->
