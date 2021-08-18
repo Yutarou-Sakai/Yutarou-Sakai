@@ -25,7 +25,7 @@
 ## Reference Materials
 参考教材ログ
 
-### Ruby & Rails
+### Ruby ・ Rails
 - [デイトラ:railsコース](https://www.daily-trial.com/ruby)
 - [Udemy:"ちゃんと" Ruby を学ぼう！ ー オブジェクト指向機能ってなんだ？](https://www.udemy.com/course/ruby-ruby/)
 
