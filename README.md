@@ -32,6 +32,7 @@
 ## 基本情報
 - 名前:酒井 友太郎
 - 年齢:23歳
+- 居住地:大阪
 - Twitter: [@yutarou_sakai](https://twitter.com/yutarou_sakai)
 
 ## スキル
