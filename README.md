@@ -5,7 +5,7 @@
   <a href="https://github.com/Yutarou-Sakai/Yutarou-Sakai/">
     <img src="https://komarev.com/ghpvc/?username=Yutarou-Sakai" alt="yutkat" />
   </a>
-  <a href="http://twitter.com/yutkat">
+  <a href="http://twitter.com/yutarou_sakai">
     <img height="20" src="https://img.shields.io/twitter/follow/yutarou_sakai?label=Twitter&logo=twitter&style=flat" />
   </a>
   <a href="https://github.com/Yutarou-Sakai">
@@ -19,6 +19,11 @@
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yutarou-Sakai&layout=compact" />
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api?username=Yutarou-Sakai&count_private=true&show_icons=true" />
 </p>
+
+
+<!-- My Develop log  -->
+## Programming note
+✔[Yutarou-Sakai Notion](https://www.notion.so/MyDevelopLog-52a306633ab341bca7f2c9eea2c9ea45)
 
 
 <!-- reference Materials  -->
