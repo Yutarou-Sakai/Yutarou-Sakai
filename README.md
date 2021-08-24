@@ -41,20 +41,20 @@
 参考教材ログ
 
 ### Ruby ・ Rails
-- [デイトラ:railsコース](https://www.daily-trial.com/ruby)
-- [Udemy:"ちゃんと" Ruby を学ぼう！ ー オブジェクト指向機能ってなんだ？](https://www.udemy.com/course/ruby-ruby/)
-- [Udemy:フルスタックエンジニアが教える 即戦力Railsエンジニア養成講座](https://www.udemy.com/course/rails-kj/)
-- [Udemy:Ruby on Rails 6: Learn 25+ gems and build a Startup MVP 2021](https://www.udemy.com/course/ruby-on-rails-6-learn-20-gems-build-an-e-learning-platform/)
+- [デイトラ：railsコース](https://www.daily-trial.com/ruby)
+- [Udemy："ちゃんと" Ruby を学ぼう！ ー オブジェクト指向機能ってなんだ？](https://www.udemy.com/course/ruby-ruby/)
+- [Udemy：フルスタックエンジニアが教える 即戦力Railsエンジニア養成講座](https://www.udemy.com/course/rails-kj/)
+- [Udemy：Ruby on Rails 6: Learn 25+ gems and build a Startup MVP 2021](https://www.udemy.com/course/ruby-on-rails-6-learn-20-gems-build-an-e-learning-platform/)
 
 ### Linux
-- [Udemy:もう怖くないLinuxコマンド。手を動かしながらLinuxコマンドラインを5日間で身に付けよう](https://www.udemy.com/course/unscared_linux/)
-- [YouTube:【仮想環境構築】VirtualBoxでLinux(CentOS)導入→Webサーバ（Apache）を構築してみた](https://www.youtube.com/watch?v=IcGNJVmRPo0&list=LL&index=1)
+- [Udemy：もう怖くないLinuxコマンド。手を動かしながらLinuxコマンドラインを5日間で身に付けよう](https://www.udemy.com/course/unscared_linux/)
+- [YouTube：【仮想環境構築】VirtualBoxでLinux(CentOS)導入→Webサーバ（Apache）を構築してみた](https://www.youtube.com/watch?v=IcGNJVmRPo0&list=LL&index=1)
 
 ### Docker
-- [Udemy:ゼロからはじめる Dockerによるアプリケーション実行環境構築](https://www.udemy.com/course/docker-k/)
+- [Udemy：ゼロからはじめる Dockerによるアプリケーション実行環境構築](https://www.udemy.com/course/docker-k/)
 
 ### Git
-- [Udemy:Git： もう怖くないGit！チーム開発で必要なGitを完全マスター](https://www.udemy.com/course/unscared_git/)
+- [Udemy：Git： もう怖くないGit！チーム開発で必要なGitを完全マスター](https://www.udemy.com/course/unscared_git/)
 
 <br>
 
