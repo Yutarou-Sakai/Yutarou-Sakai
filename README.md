@@ -30,7 +30,7 @@
 
 <!-- My Develop log  -->
 ## Programming note
-[Notion:MyDevelopLog](https://lumpy-sailor-fc3.notion.site/MyDevelopLog-52a306633ab341bca7f2c9eea2c9ea45)
+[Notion：MyDevelopLog](https://lumpy-sailor-fc3.notion.site/MyDevelopLog-52a306633ab341bca7f2c9eea2c9ea45)
 
 
 <br>
